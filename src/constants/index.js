@@ -150,49 +150,49 @@ const experiences = [
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
-  {
-    title: "Full Stack Developer",
-    company_name: "Guru Sampoorna Taaja",
-    icon: guru,
-    iconBg: "#ffffff",
-    date: "Sep 2024 - Present",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "The project’s responsive design has played a key role in enhancing the online shopping experience for our customers.",
-      "The project stands out for its responsive design and flawless performance across all browsers.",
-      "Sales of Guru organic products have significantly increased, and customer connected to the brand than ever before.",
-    ],
-  },
+  // {
+  //   title: "Full Stack Developer",
+  //   company_name: "Guru Sampoorna Taaja",
+  //   icon: guru,
+  //   iconBg: "#ffffff",
+  //   date: "Sep 2024 - Present",
+  //   points: [
+  //     "Developing and maintaining web applications using React.js and other related technologies.",
+  //     "The project’s responsive design has played a key role in enhancing the online shopping experience for our customers.",
+  //     "The project stands out for its responsive design and flawless performance across all browsers.",
+  //     "Sales of Guru organic products have significantly increased, and customer connected to the brand than ever before.",
+  //   ],
+  // },
 ];
 
-const testimonials = [
-  {
-    testimonial:
-      "I thought creating a website as compact as our product would be complex, but Vaibhav proved me wrong.",
-    name: "Dipesh Dabi",
-    designation: "SDE",
-    company: "Samyotech Solutions",
-    image:
-      "https://media.licdn.com/dms/image/v2/D4D03AQGdMfp-fVvcag/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1720271563470?e=1735171200&v=beta&t=c7EJA66GkepEJIyS8mrhA2c9XGBs5c3JMJFZP_o19-Q",
-  },
-  {
-    testimonial:
-      "Vaibhav is a rare find among web developers, truly committed to ensuring his clients succeed.",
-    name: "Madhav Patidar",
-    designation: "FOUNDER",
-    company: "Guru Sampoorna Taaja",
-    image: "https://i.ytimg.com/vi/PvEsNYSheGc/mqdefault.jpg",
-  },
-  {
-    testimonial:
-      "After Vaibhav optimized our SEO, our website traffic increased by 50%. We can't thank him enough!",
-    name: "Gaurav Kothari",
-    designation: "TECHNICAL TRAINER",
-    company: "InfoBeans Foundation",
-    image:
-      "https://media.licdn.com/dms/image/v2/D5603AQEXSq1e6SI3dQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1674383171494?e=1735171200&v=beta&t=_k-FaFq--HVYKVMW4TaSmkv5-0VS9cLUwI2OddkLidc",
-  },
-];
+// const testimonials = [
+//   {
+//     testimonial:
+//       "I thought creating a website as compact as our product would be complex, but Vaibhav proved me wrong.",
+//     name: "Dipesh Dabi",
+//     designation: "SDE",
+//     company: "Samyotech Solutions",
+//     image:
+//       "https://media.licdn.com/dms/image/v2/D4D03AQGdMfp-fVvcag/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1720271563470?e=1735171200&v=beta&t=c7EJA66GkepEJIyS8mrhA2c9XGBs5c3JMJFZP_o19-Q",
+//   },
+//   {
+//     testimonial:
+//       "Vaibhav is a rare find among web developers, truly committed to ensuring his clients succeed.",
+//     name: "Madhav Patidar",
+//     designation: "FOUNDER",
+//     company: "Guru Sampoorna Taaja",
+//     image: "https://i.ytimg.com/vi/PvEsNYSheGc/mqdefault.jpg",
+//   },
+//   {
+//     testimonial:
+//       "After Vaibhav optimized our SEO, our website traffic increased by 50%. We can't thank him enough!",
+//     name: "Gaurav Kothari",
+//     designation: "TECHNICAL TRAINER",
+//     company: "InfoBeans Foundation",
+//     image:
+//       "https://media.licdn.com/dms/image/v2/D5603AQEXSq1e6SI3dQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1674383171494?e=1735171200&v=beta&t=_k-FaFq--HVYKVMW4TaSmkv5-0VS9cLUwI2OddkLidc",
+//   },
+// ];
 
 const projects = [
   {
@@ -247,4 +247,4 @@ const projects = [
   },
 ];
 
-export { services, certificates, technologies, experiences, testimonials, projects };
+export { services, certificates, technologies, experiences, projects };
